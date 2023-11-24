@@ -1,0 +1,1 @@
+INSERT INTO personne(mail,mdp) VALUES ('thony@gmail.com','0000');
